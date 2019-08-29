@@ -5,11 +5,11 @@
 "title":"The Great Gatsby",
 "genre":"Literature & Fiction",
 "format":"Paperback",
-"author":"F. Scott Fitzgerald",
-"isbn":12788945678926,
-"publication_date": "23 April 2018",
+"author":"F.Scott Fitzgerald",
+"isbn":"12788945678926",
+"publication_date":"23 April 2018",
 "publisher":"Vintage Publishing",
-"price": 56
+"price":56
 },
 {
 "id":"002",
@@ -17,10 +17,10 @@
 "genre":"Regional & national history",
 "format":"Paperback",
 "author":"Yuval Noah Harari",
-"isbn":12788945600926,
-"publication_date": "03 August 2108",
+"isbn":"12788945600926",
+"publication_date":"03 August 2108",
 "publisher":"Vintage Publishing",
-"price": 89
+"price":89
 },
 {
 "id":"003",
@@ -28,10 +28,10 @@
 "genre":"Literature & Fiction",
 "format":"Kindle e-bboks",
 "author":"Amish Tripathy",
-"isbn":12748945678928,
-"publication_date": "12 September 2018",
+"isbn":"12748945678928",
+"publication_date":"12 September 2018",
 "publisher":"Little Brown Book Group",
-"price": 123
+"price":123
 },
 {
 "id":"004",
@@ -39,10 +39,10 @@
 "genre":"Medicine",
 "format":"Paperback",
 "author":"Ragavendra R. Baliga",
-"isbn":12788045678923,
-"publication_date": "24 February 2019",
+"isbn":"12788045678923",
+"publication_date":"24 February 2019",
 "publisher":"Elsevier Health Sciences",
-"price": 79
+"price":79
 }
 ]
 }
